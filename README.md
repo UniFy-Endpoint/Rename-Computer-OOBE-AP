@@ -1,3 +1,5 @@
+[![Download Latest Release](https://img.shields.io/github/v/release/UniFy-Endpoint/Rename-Computer-OOBE-AP?label=Download%20Latest&style=for-the-badge&logo=github)](https://github.com/UniFy-Endpoint/Rename-Computer-OOBE-AP/releases/latest)
+
 # Rename-Computer-OOBE-APv2
 
 ## Overview
